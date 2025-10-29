@@ -2,192 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Minh Thuận | Network Programming Portfolio</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/BlogMThuan/tags/</link>
     <description>Recent content in Tags on Minh Thuận | Network Programming Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Oct 2025 15:00:00 +0700</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/BlogMThuan/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backend</title>
-      <link>//localhost:1313/tags/backend/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/backend/</link>
       <pubDate>Sun, 26 Oct 2025 15:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/backend/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/backend/</guid>
       <description></description>
     </item>
     <item>
       <title>Node.js</title>
-      <link>//localhost:1313/tags/node.js/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/node.js/</link>
       <pubDate>Sun, 26 Oct 2025 15:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/node.js/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>//localhost:1313/tags/rich-content/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/rich-content/</link>
       <pubDate>Sun, 26 Oct 2025 15:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/rich-content/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/rich-content/</guid>
       <description></description>
     </item>
     <item>
       <title>Functional Programming</title>
-      <link>//localhost:1313/tags/functional-programming/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/functional-programming/</link>
       <pubDate>Sun, 26 Oct 2025 14:30:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/functional-programming/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/functional-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>//localhost:1313/tags/java/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/java/</link>
       <pubDate>Sun, 26 Oct 2025 14:30:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/java/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Stream API</title>
-      <link>//localhost:1313/tags/stream-api/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/stream-api/</link>
       <pubDate>Sun, 26 Oct 2025 14:30:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/stream-api/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/stream-api/</guid>
       <description></description>
     </item>
     <item>
       <title>Frontend</title>
-      <link>//localhost:1313/tags/frontend/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/frontend/</link>
       <pubDate>Sun, 26 Oct 2025 14:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/frontend/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/frontend/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>//localhost:1313/tags/javascript/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/javascript/</link>
       <pubDate>Sun, 26 Oct 2025 14:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/javascript/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>React</title>
-      <link>//localhost:1313/tags/react/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/react/</link>
       <pubDate>Sun, 26 Oct 2025 14:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/react/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/react/</guid>
       <description></description>
     </item>
     <item>
       <title>Network Programming</title>
-      <link>//localhost:1313/tags/network-programming/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/network-programming/</link>
       <pubDate>Sun, 26 Oct 2025 13:30:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/network-programming/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/network-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Socket</title>
-      <link>//localhost:1313/tags/socket/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/socket/</link>
       <pubDate>Sun, 26 Oct 2025 13:30:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/socket/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/socket/</guid>
       <description></description>
     </item>
     <item>
       <title>DOM</title>
-      <link>//localhost:1313/tags/dom/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/dom/</link>
       <pubDate>Sun, 26 Oct 2025 13:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/dom/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/dom/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>//localhost:1313/tags/web-development/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/web-development/</link>
       <pubDate>Sun, 26 Oct 2025 13:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/web-development/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Async</title>
-      <link>//localhost:1313/tags/async/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/async/</link>
       <pubDate>Sun, 26 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/async/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/async/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>//localhost:1313/tags/programming/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/programming/</link>
       <pubDate>Sun, 26 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/programming/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Concurrency</title>
-      <link>//localhost:1313/tags/concurrency/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/concurrency/</link>
       <pubDate>Sun, 26 Oct 2025 11:45:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/concurrency/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/concurrency/</guid>
       <description></description>
     </item>
     <item>
       <title>Multithreading</title>
-      <link>//localhost:1313/tags/multithreading/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/multithreading/</link>
       <pubDate>Sun, 26 Oct 2025 11:45:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/multithreading/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/multithreading/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring Boot</title>
-      <link>//localhost:1313/tags/spring-boot/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/spring-boot/</link>
       <pubDate>Sun, 26 Oct 2025 11:30:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/spring-boot/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/spring-boot/</guid>
       <description></description>
     </item>
     <item>
       <title>ES6</title>
-      <link>//localhost:1313/tags/es6/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/es6/</link>
       <pubDate>Sun, 26 Oct 2025 11:00:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/es6/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/es6/</guid>
       <description></description>
     </item>
     <item>
       <title>OOP</title>
-      <link>//localhost:1313/tags/oop/</link>
+      <link>http://localhost:1313/BlogMThuan/tags/oop/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:00 +0700</pubDate>
-      <guid>//localhost:1313/tags/oop/</guid>
+      <guid>http://localhost:1313/BlogMThuan/tags/oop/</guid>
       <description></description>
     </item>
     <item>
       <title>Example</title>
-      <link>//localhost:1313/tags/example/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>//localhost:1313/tags/example/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown Syntax</title>
-      <link>//localhost:1313/tags/markdown-syntax/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>//localhost:1313/tags/markdown-syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mathjax</title>
-      <link>//localhost:1313/tags/mathjax/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>//localhost:1313/tags/mathjax/</guid>
+      <link>http://localhost:1313/BlogMThuan/tags/example/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/BlogMThuan/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Sample</title>
-      <link>//localhost:1313/tags/sample/</link>
-      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      <guid>//localhost:1313/tags/sample/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>//localhost:1313/tags/emoji-support/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      <guid>//localhost:1313/tags/emoji-support/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>//localhost:1313/tags/placeholder-text/</link>
-      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>//localhost:1313/tags/placeholder-text/</guid>
+      <link>http://localhost:1313/BlogMThuan/tags/sample/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/BlogMThuan/tags/sample/</guid>
       <description></description>
     </item>
   </channel>

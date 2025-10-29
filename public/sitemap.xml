@@ -2,144 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/backend/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/backend/</loc>
     <lastmod>2025-10-26T15:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/</loc>
     <lastmod>2025-10-26T15:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/javascript-nodejs-intro/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/javascript-nodejs-intro/</loc>
     <lastmod>2025-10-26T15:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/BlogMThuan/</loc>
     <lastmod>2025-10-26T15:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/node.js/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/node.js/</loc>
     <lastmod>2025-10-26T15:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/rich-content/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/rich-content/</loc>
     <lastmod>2025-10-26T15:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/</loc>
     <lastmod>2025-10-26T15:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/functional-programming/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/functional-programming/</loc>
     <lastmod>2025-10-26T14:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/java/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/java/</loc>
     <lastmod>2025-10-26T14:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/java-stream-api/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/java-stream-api/</loc>
     <lastmod>2025-10-26T14:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/stream-api/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/stream-api/</loc>
     <lastmod>2025-10-26T14:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/frontend/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/frontend/</loc>
     <lastmod>2025-10-26T14:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/javascript-react-intro/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/javascript-react-intro/</loc>
     <lastmod>2025-10-26T14:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/javascript/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/javascript/</loc>
     <lastmod>2025-10-26T14:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/react/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/react/</loc>
     <lastmod>2025-10-26T14:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/java-network-programming/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/java-network-programming/</loc>
     <lastmod>2025-10-26T13:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/network-programming/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/network-programming/</loc>
     <lastmod>2025-10-26T13:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/socket/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/socket/</loc>
     <lastmod>2025-10-26T13:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/dom/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/dom/</loc>
     <lastmod>2025-10-26T13:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/javascript-dom-manipulation/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/javascript-dom-manipulation/</loc>
     <lastmod>2025-10-26T13:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/web-development/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/web-development/</loc>
     <lastmod>2025-10-26T13:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/async/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/async/</loc>
     <lastmod>2025-10-26T12:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/javascript-async-programming/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/javascript-async-programming/</loc>
     <lastmod>2025-10-26T12:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/programming/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/programming/</loc>
     <lastmod>2025-10-26T12:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/concurrency/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/concurrency/</loc>
     <lastmod>2025-10-26T11:45:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/java-multithreading/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/java-multithreading/</loc>
     <lastmod>2025-10-26T11:45:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/multithreading/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/multithreading/</loc>
     <lastmod>2025-10-26T11:45:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/spring-boot/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/spring-boot/</loc>
     <lastmod>2025-10-26T11:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/spring-boot-introduction/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/spring-boot-introduction/</loc>
     <lastmod>2025-10-26T11:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/es6/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/es6/</loc>
     <lastmod>2025-10-26T11:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/modern-javascript-features/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/modern-javascript-features/</loc>
     <lastmod>2025-10-26T11:00:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/java-core-concepts/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/java-core-concepts/</loc>
     <lastmod>2025-10-26T10:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/oop/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/oop/</loc>
     <lastmod>2025-10-26T10:30:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/example/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/markdown-syntax/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/mathjax/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blogs/math/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/gallery/</loc>
+    <loc>http://localhost:1313/BlogMThuan/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/markdown-syntax/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/sample/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blogs/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blogs/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blogs/javascript-fundamentals/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/example/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/rich-content/</loc>
+    <loc>http://localhost:1313/BlogMThuan/blogs/javascript-fundamentals/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/BlogMThuan/tags/sample/</loc>
+    <lastmod>2021-04-03T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/BlogMThuan/categories/</loc>
   </url>
 </urlset>
