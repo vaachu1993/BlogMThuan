@@ -1,4 +1,6 @@
-baseURL: "https://vaachu1993.github.io/BlogMThuan/"
+baseURL: "https://vaachu1993.github.io/BlogMThuan"
+canonifyURLs: true
+relativeURLs: false
 languageCode: "en-us"
 title: "Minh Thuận | Network Programming Portfolio"
 theme: hugo-profile
