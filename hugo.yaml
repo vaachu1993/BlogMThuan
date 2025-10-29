@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://unknowsoful.github.io/BlogMThuan/"
 languageCode: "en-us"
 title: "Minh Thuận | Network Programming Portfolio"
 theme: hugo-profile
