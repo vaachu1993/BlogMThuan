@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DOM Manipulation với JavaScript on Minh Thuận | Network Programming Portfolio</title>
-    <link>/blogs/javascript-dom-manipulation/</link>
+    <link>//localhost:1313/blogs/javascript-dom-manipulation/</link>
     <description>Recent content in DOM Manipulation với JavaScript on Minh Thuận | Network Programming Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="/blogs/javascript-dom-manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/blogs/javascript-dom-manipulation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

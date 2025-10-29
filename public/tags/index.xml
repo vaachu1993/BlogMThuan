@@ -2,192 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Minh Thuận | Network Programming Portfolio</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Minh Thuận | Network Programming Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Oct 2025 15:00:00 +0700</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backend</title>
-      <link>/tags/backend/</link>
+      <link>//localhost:1313/tags/backend/</link>
       <pubDate>Sun, 26 Oct 2025 15:00:00 +0700</pubDate>
-      <guid>/tags/backend/</guid>
+      <guid>//localhost:1313/tags/backend/</guid>
       <description></description>
     </item>
     <item>
       <title>Node.js</title>
-      <link>/tags/node.js/</link>
+      <link>//localhost:1313/tags/node.js/</link>
       <pubDate>Sun, 26 Oct 2025 15:00:00 +0700</pubDate>
-      <guid>/tags/node.js/</guid>
+      <guid>//localhost:1313/tags/node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>/tags/rich-content/</link>
+      <link>//localhost:1313/tags/rich-content/</link>
       <pubDate>Sun, 26 Oct 2025 15:00:00 +0700</pubDate>
-      <guid>/tags/rich-content/</guid>
+      <guid>//localhost:1313/tags/rich-content/</guid>
       <description></description>
     </item>
     <item>
       <title>Functional Programming</title>
-      <link>/tags/functional-programming/</link>
+      <link>//localhost:1313/tags/functional-programming/</link>
       <pubDate>Sun, 26 Oct 2025 14:30:00 +0700</pubDate>
-      <guid>/tags/functional-programming/</guid>
+      <guid>//localhost:1313/tags/functional-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>/tags/java/</link>
+      <link>//localhost:1313/tags/java/</link>
       <pubDate>Sun, 26 Oct 2025 14:30:00 +0700</pubDate>
-      <guid>/tags/java/</guid>
+      <guid>//localhost:1313/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Stream API</title>
-      <link>/tags/stream-api/</link>
+      <link>//localhost:1313/tags/stream-api/</link>
       <pubDate>Sun, 26 Oct 2025 14:30:00 +0700</pubDate>
-      <guid>/tags/stream-api/</guid>
+      <guid>//localhost:1313/tags/stream-api/</guid>
       <description></description>
     </item>
     <item>
       <title>Frontend</title>
-      <link>/tags/frontend/</link>
+      <link>//localhost:1313/tags/frontend/</link>
       <pubDate>Sun, 26 Oct 2025 14:00:00 +0700</pubDate>
-      <guid>/tags/frontend/</guid>
+      <guid>//localhost:1313/tags/frontend/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>/tags/javascript/</link>
+      <link>//localhost:1313/tags/javascript/</link>
       <pubDate>Sun, 26 Oct 2025 14:00:00 +0700</pubDate>
-      <guid>/tags/javascript/</guid>
+      <guid>//localhost:1313/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>React</title>
-      <link>/tags/react/</link>
+      <link>//localhost:1313/tags/react/</link>
       <pubDate>Sun, 26 Oct 2025 14:00:00 +0700</pubDate>
-      <guid>/tags/react/</guid>
+      <guid>//localhost:1313/tags/react/</guid>
       <description></description>
     </item>
     <item>
       <title>Network Programming</title>
-      <link>/tags/network-programming/</link>
+      <link>//localhost:1313/tags/network-programming/</link>
       <pubDate>Sun, 26 Oct 2025 13:30:00 +0700</pubDate>
-      <guid>/tags/network-programming/</guid>
+      <guid>//localhost:1313/tags/network-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Socket</title>
-      <link>/tags/socket/</link>
+      <link>//localhost:1313/tags/socket/</link>
       <pubDate>Sun, 26 Oct 2025 13:30:00 +0700</pubDate>
-      <guid>/tags/socket/</guid>
+      <guid>//localhost:1313/tags/socket/</guid>
       <description></description>
     </item>
     <item>
       <title>DOM</title>
-      <link>/tags/dom/</link>
+      <link>//localhost:1313/tags/dom/</link>
       <pubDate>Sun, 26 Oct 2025 13:00:00 +0700</pubDate>
-      <guid>/tags/dom/</guid>
+      <guid>//localhost:1313/tags/dom/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>/tags/web-development/</link>
+      <link>//localhost:1313/tags/web-development/</link>
       <pubDate>Sun, 26 Oct 2025 13:00:00 +0700</pubDate>
-      <guid>/tags/web-development/</guid>
+      <guid>//localhost:1313/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Async</title>
-      <link>/tags/async/</link>
+      <link>//localhost:1313/tags/async/</link>
       <pubDate>Sun, 26 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>/tags/async/</guid>
+      <guid>//localhost:1313/tags/async/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>/tags/programming/</link>
+      <link>//localhost:1313/tags/programming/</link>
       <pubDate>Sun, 26 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>/tags/programming/</guid>
+      <guid>//localhost:1313/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Concurrency</title>
-      <link>/tags/concurrency/</link>
+      <link>//localhost:1313/tags/concurrency/</link>
       <pubDate>Sun, 26 Oct 2025 11:45:00 +0700</pubDate>
-      <guid>/tags/concurrency/</guid>
+      <guid>//localhost:1313/tags/concurrency/</guid>
       <description></description>
     </item>
     <item>
       <title>Multithreading</title>
-      <link>/tags/multithreading/</link>
+      <link>//localhost:1313/tags/multithreading/</link>
       <pubDate>Sun, 26 Oct 2025 11:45:00 +0700</pubDate>
-      <guid>/tags/multithreading/</guid>
+      <guid>//localhost:1313/tags/multithreading/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring Boot</title>
-      <link>/tags/spring-boot/</link>
+      <link>//localhost:1313/tags/spring-boot/</link>
       <pubDate>Sun, 26 Oct 2025 11:30:00 +0700</pubDate>
-      <guid>/tags/spring-boot/</guid>
+      <guid>//localhost:1313/tags/spring-boot/</guid>
       <description></description>
     </item>
     <item>
       <title>ES6</title>
-      <link>/tags/es6/</link>
+      <link>//localhost:1313/tags/es6/</link>
       <pubDate>Sun, 26 Oct 2025 11:00:00 +0700</pubDate>
-      <guid>/tags/es6/</guid>
+      <guid>//localhost:1313/tags/es6/</guid>
       <description></description>
     </item>
     <item>
       <title>OOP</title>
-      <link>/tags/oop/</link>
+      <link>//localhost:1313/tags/oop/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:00 +0700</pubDate>
-      <guid>/tags/oop/</guid>
+      <guid>//localhost:1313/tags/oop/</guid>
       <description></description>
     </item>
     <item>
       <title>Example</title>
-      <link>/tags/example/</link>
+      <link>//localhost:1313/tags/example/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>/tags/example/</guid>
+      <guid>//localhost:1313/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown Syntax</title>
-      <link>/tags/markdown-syntax/</link>
+      <link>//localhost:1313/tags/markdown-syntax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>/tags/markdown-syntax/</guid>
+      <guid>//localhost:1313/tags/markdown-syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Mathjax</title>
-      <link>/tags/mathjax/</link>
+      <link>//localhost:1313/tags/mathjax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>/tags/mathjax/</guid>
+      <guid>//localhost:1313/tags/mathjax/</guid>
       <description></description>
     </item>
     <item>
       <title>Sample</title>
-      <link>/tags/sample/</link>
+      <link>//localhost:1313/tags/sample/</link>
       <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      <guid>/tags/sample/</guid>
+      <guid>//localhost:1313/tags/sample/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>/tags/emoji-support/</link>
+      <link>//localhost:1313/tags/emoji-support/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      <guid>/tags/emoji-support/</guid>
+      <guid>//localhost:1313/tags/emoji-support/</guid>
       <description></description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>/tags/placeholder-text/</link>
+      <link>//localhost:1313/tags/placeholder-text/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>/tags/placeholder-text/</guid>
+      <guid>//localhost:1313/tags/placeholder-text/</guid>
       <description></description>
     </item>
   </channel>
