@@ -7,7 +7,7 @@ tags:
   - Rich content
   - Node.js
   - Backend
-image: /images/projects/nodejs-intro.png
+image: /images/anhnodejs.jpg
 description: "Khám phá Node.js và cách xây dựng ứng dụng backend với JavaScript"
 toc: true
 ---

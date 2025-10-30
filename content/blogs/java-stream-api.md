@@ -7,7 +7,7 @@ tags:
   - Java
   - Stream API
   - Functional Programming
-image: /images/projects/java-stream.png
+image: /images/ảnhstream.jpg
 description: "Hướng dẫn sử dụng Java Stream API để xử lý dữ liệu hiệu quả"
 toc: true
 ---

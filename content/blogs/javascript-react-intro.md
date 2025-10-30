@@ -7,7 +7,7 @@ tags:
   - JavaScript
   - React
   - Frontend
-image: /images/projects/react-intro.png
+image: /images/anhreactjs.jpg
 description: "Tìm hiểu về React.js và cách xây dựng giao diện web hiện đại"
 toc: true
 ---

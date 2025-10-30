@@ -154,7 +154,7 @@ params:
     items:
       - title: "Network Chat Application"
         content: Ứng dụng chat thời gian thực sử dụng **Java Socket**, hỗ trợ gửi file và mã hóa tin nhắn.
-        image: /images/projects/chatapp.png
+        image: /images/anhnetwork.jpg
         featured:
           name: Demo
           link: https://github.com/UnknowSoful/network-chat
@@ -168,7 +168,7 @@ params:
 
       - title: "Realtime Dashboard"
         content: Ứng dụng giám sát lưu lượng mạng theo thời gian thực sử dụng **Node.js + WebSocket**.
-        image: /images/projects/dashboard.png
+        image: /images/anhnodejs.jpg
         featured:
           name: Demo
           link: https://github.com/UnknowSoful/realtime-dashboard
