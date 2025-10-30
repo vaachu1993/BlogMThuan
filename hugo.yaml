@@ -68,7 +68,7 @@ params:
     title: "Minh Thuận."
     subtitle: "Lập trình viên mạng máy tính & phát triển web"
     content: "Tôi đam mê lập trình ứng dụng web và hệ thống mạng. Tôi chuyên sử dụng Java và JavaScript để xây dựng các ứng dụng hoạt động hiệu quả và bảo mật cao."
-    image: https://scontent.fsgn17-1.fna.fbcdn.net/v/t39.30808-1/541678676_2459104017817374_7961140756911337044_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1d2534&_nc_ohc=m7uS_6FWlO4Q7kNvwExbqUY&_nc_oc=AdlC7grEfv7H8HMMP6MqfII11sKwXBbdKBLYR3XwMY81CaDgfsqBLf5FfAepqxMZr2VLGXeQZjLxRBIiTousYixi&_nc_zt=24&_nc_ht=scontent.fsgn17-1.fna&_nc_gid=zmo_FBPVCKP1ajHAek1xWw&oh=00_AffTuNjMgA4H8q_ayUoXMHGr5CCPbtHuvXgbCO2FyrUU_A&oe=6902FAF2
+    image: /images/avatar.jpg
     bottomImage:
       enable: true
     button:
@@ -90,7 +90,7 @@ params:
   about:
     enable: true
     title: "Giới thiệu"
-    image: "/images/me.png"
+    image: "/images/avatar.jpg"
     content: |-
       Tôi là **Minh Thuận**, một lập trình viên trẻ đam mê **lập trình mạng máy tính** và **phát triển ứng dụng web hiện đại**.  
       Tôi yêu thích việc xây dựng các hệ thống có tính kết nối cao, tối ưu hiệu năng và đảm bảo an toàn dữ liệu.
@@ -103,7 +103,7 @@ params:
         - "Java"
         - "JavaScript (Node.js)"
         - "React.js"
-        - "Express.js"
+        - "Nuxt.js"
         - "HTML & CSS"
         - "Socket Programming"
 
@@ -115,7 +115,7 @@ params:
         companyUrl: "https://fptsoftware.com"
         jobs:
           - name: "Network Application Developer"
-            date: "2023 - Nay"
+            date: "2025 - Nay"
             content: |
               Phát triển các ứng dụng web và dịch vụ mạng sử dụng **Java Spring Boot** và **Node.js**.  
               Xây dựng hệ thống quản lý truyền thông nội bộ với giao tiếp **WebSocket** và **REST API**.
@@ -143,8 +143,7 @@ params:
         school:
           name: "Đại học Công nghệ TP.HCM – HUTECH"
           url: "https://www.hutech.edu.vn"
-        date: "2019 - 2023"
-        GPA: "3.7 / 4.0"
+        date: "2022 - 2026"
         content: |-
           Chuyên ngành: **Lập trình mạng máy tính và ứng dụng**  
           Các môn học nổi bật: Lập trình Java, Phát triển Web, An toàn mạng, Mạng máy tính nâng cao.
